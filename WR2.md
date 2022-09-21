@@ -24,8 +24,13 @@ the second one is client-side virtualization
 ## Installing Ubuntu in Virtualbox
 * Ubuntu live session 
 ![Ubuntu installing](../installingvr1.png)
+
 ![Ubuntu installing](../installingvr3.png)
+
 ![Ubuntu installing](../installingvr4.png)
+
 ![Ubuntu installing](../installingvr5.png)
+
 ![Ubuntu installing](../installingvr6.png)
+
 ![Ubuntu installing](../installingvr7.png)

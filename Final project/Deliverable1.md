@@ -27,26 +27,26 @@ A static web server, or stack, consists of a computer (hardware) with an HTTP se
 
 A dynamic web server consists of a static web server plus extra software, most commonly an application server and a database. We call it "dynamic" because the application server updates the hosted files before sending content to your browser via the HTTP server.
 
-## Apache 
-!(apache logo)[https://geekflare.com/wp-content/uploads/2019/03/apache_server.jpg]
+## Apache : Apache HTTP Server is a free and open-source web server that delivers web content through the internet
+![apache logo](https://geekflare.com/wp-content/uploads/2019/03/apache_server.jpg)
 
-## NGNIX
-!(ngnix logo)[https://geekflare.com/wp-content/uploads/2019/03/nginx-server-804x270.png]
+## NGNIX : NGINX is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more
+![ngnix logo](https://geekflare.com/wp-content/uploads/2019/03/nginx-server-804x270.png)
 
-## Caddy
-!(caddy logo)[https://geekflare.com/wp-content/uploads/2019/03/caddy-server-637x270.png]
+## Caddy : Caddy simplifies your infrastructure
+![caddy logo](https://geekflare.com/wp-content/uploads/2019/03/caddy-server-637x270.png)
 
-## Lighthttpd
-!(lighthttpd)[https://geekflare.com/wp-content/uploads/2019/03/lighthttpd-server-281x270.png]
+## Lighthttpd : Lighttpd is an IPv4 and IPv6 compatible Web server that understands HTTP/1.0 and 1.1, HTTPS (using OpenSSL) CGI/1.1, native FastCGI, and HTTP authentication.
+![lighthttpd](https://geekflare.com/wp-content/uploads/2019/03/lighthttpd-server-281x270.png)
 
-## MonkeyServer
-!(monkeyserver)[https://geekflare.com/wp-content/uploads/2019/03/monkey-server-270x270.png]
+## MonkeyServer : Monkey HTTP Server is an optimized web server for Linux
+![monkeyserver](https://geekflare.com/wp-content/uploads/2019/03/monkey-server-270x270.png)
 
-## OpenLiteSpeed
-!(openlitespeed)[https://geekflare.com/wp-content/uploads/2019/03/litespeed-server-840x210.png]
+## OpenLiteSpeed : OpenLiteSpeed is an easy-to-use, open-source web server. 
+![openlitespeed](https://geekflare.com/wp-content/uploads/2019/03/litespeed-server-840x210.png)
 
-## Cherokee 
-(cherokee logo)[https://geekflare.com/wp-content/uploads/2019/03/cherokee-server.png]
+## Cherokee : Cherokee is an open-source cross-platform web server that runs on Linux, BSD variants, Solaris, OS X, and Windows
+![cherokee logo](https://geekflare.com/wp-content/uploads/2019/03/cherokee-server.png)
 
 ## What is virtualization?
 In linux virtualization refers to a process where more than one virtual machine can be installed in the Linux operating system
